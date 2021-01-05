@@ -98,9 +98,6 @@ class HomeScreen extends StatelessWidget {
         },
         defaultSelectedIndex: 1,
       ),
-      appBar: AppBar(
-        title: Text("Home"),
-      ),
     );
   }
 }
